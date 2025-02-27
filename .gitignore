@@ -17,9 +17,9 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 .vscode
+asconfig.json
 
 # Test aseests
 builder-tests/
 exporter-sources/
 exporter-tests/
-asconfig.json
