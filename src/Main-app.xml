@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/51.1">
+
+    <id>eu.claudius.iacob.musicxmltester</id>
+    <versionNumber>1.0.0</versionNumber>
+    <filename>MusicXMLTester</filename>
+    <description>A testing application for the MusicXMLBuilder library.</description>
+
+    <initialWindow>
+        <title>MusicXML Format Library Tester</title>
+        <content>Main.swf</content>
+        <visible>true</visible>
+        <width>800</width>
+        <height>600</height>
+        <minWidth>400</minWidth>
+        <minHeight>300</minHeight>
+        <resizable>true</resizable>
+        <fullscreen>false</fullscreen>
+        <requestedDisplayResolution>high</requestedDisplayResolution>
+    </initialWindow>
+
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+
+    <supportedProfiles>extendedDesktop</supportedProfiles>
+    <supportedLanguages>en</supportedLanguages>
+
+</application>
