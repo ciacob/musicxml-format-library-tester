@@ -30,7 +30,7 @@ package {
             // _testBuilderCapabilities(new Score1);
 
             var sourcesDir:File = BASE_PATH.resolvePath(OUTPUT_SOURCE_DIR);
-            _testExporterCapabilities(sourcesDir, true);
+            _testExporterCapabilities(sourcesDir, false);
         }
 
         /**
